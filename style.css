@@ -1,0 +1,45 @@
+*{
+    padding:  15px;
+    margin: 15px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+  display: flex;
+  justify-content: center; 
+}
+
+button{
+   border-radius: 16px;
+  
+}
+
+header{
+   background-color: rgb(196, 18, 18);
+   border-radius: 12px;
+}
+
+h1{
+   color: white;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    display: inline;
+    font-size: larger;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 60px;
+}
+
+img{
+    border-radius: 15px;
+}
